@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pramodkv16/leetcodejava/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/pramodkv16/leetcodejava/tree/master/0066-plus-one) |
+| [3046-split-the-array](https://github.com/pramodkv16/leetcodejava/tree/master/3046-split-the-array) |
 ## Math
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pramodkv16/leetcodejava/tree/master/0013-roman-to-integer) |
+| [3046-split-the-array](https://github.com/pramodkv16/leetcodejava/tree/master/3046-split-the-array) |
 ## String
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/pramodkv16/leetcodejava/tree/master/0069-sqrtx) |
+## Counting
+|  |
+| ------- |
+| [3046-split-the-array](https://github.com/pramodkv16/leetcodejava/tree/master/3046-split-the-array) |
 <!---LeetCode Topics End-->
