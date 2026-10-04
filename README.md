@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/pramodkv16/leetcodejava/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/pramodkv16/leetcodejava/tree/master/0014-longest-common-prefix) |
+| [1332-remove-palindromic-subsequences](https://github.com/pramodkv16/leetcodejava/tree/master/1332-remove-palindromic-subsequences) |
 | [3110-score-of-a-string](https://github.com/pramodkv16/leetcodejava/tree/master/3110-score-of-a-string) |
 ## Trie
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3046-split-the-array](https://github.com/pramodkv16/leetcodejava/tree/master/3046-split-the-array) |
+## Two Pointers
+|  |
+| ------- |
+| [1332-remove-palindromic-subsequences](https://github.com/pramodkv16/leetcodejava/tree/master/1332-remove-palindromic-subsequences) |
 <!---LeetCode Topics End-->
