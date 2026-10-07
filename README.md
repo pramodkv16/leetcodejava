@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pramodkv16/leetcodejava/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/pramodkv16/leetcodejava/tree/master/0066-plus-one) |
+| [0283-move-zeroes](https://github.com/pramodkv16/leetcodejava/tree/master/0283-move-zeroes) |
 | [3046-split-the-array](https://github.com/pramodkv16/leetcodejava/tree/master/3046-split-the-array) |
 ## Math
 |  |
@@ -61,5 +62,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/pramodkv16/leetcodejava/tree/master/0283-move-zeroes) |
 | [1332-remove-palindromic-subsequences](https://github.com/pramodkv16/leetcodejava/tree/master/1332-remove-palindromic-subsequences) |
 <!---LeetCode Topics End-->
