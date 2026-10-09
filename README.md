@@ -64,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/pramodkv16/leetcodejava/tree/master/0283-move-zeroes) |
 | [1332-remove-palindromic-subsequences](https://github.com/pramodkv16/leetcodejava/tree/master/1332-remove-palindromic-subsequences) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/pramodkv16/leetcodejava/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
