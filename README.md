@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pramodkv16/leetcodejava/tree/master/0013-roman-to-integer) |
+| [0389-find-the-difference](https://github.com/pramodkv16/leetcodejava/tree/master/0389-find-the-difference) |
 | [3046-split-the-array](https://github.com/pramodkv16/leetcodejava/tree/master/3046-split-the-array) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pramodkv16/leetcodejava/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/pramodkv16/leetcodejava/tree/master/0014-longest-common-prefix) |
+| [0389-find-the-difference](https://github.com/pramodkv16/leetcodejava/tree/master/0389-find-the-difference) |
 | [1332-remove-palindromic-subsequences](https://github.com/pramodkv16/leetcodejava/tree/master/1332-remove-palindromic-subsequences) |
 | [3110-score-of-a-string](https://github.com/pramodkv16/leetcodejava/tree/master/3110-score-of-a-string) |
 ## Trie
@@ -68,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1683-invalid-tweets](https://github.com/pramodkv16/leetcodejava/tree/master/1683-invalid-tweets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/pramodkv16/leetcodejava/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/pramodkv16/leetcodejava/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
