@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/pramodkv16/leetcodejava/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/pramodkv16/leetcodejava/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/pramodkv16/leetcodejava/tree/master/0389-find-the-difference) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/pramodkv16/leetcodejava/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3046-split-the-array](https://github.com/pramodkv16/leetcodejava/tree/master/3046-split-the-array) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/pramodkv16/leetcodejava/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/pramodkv16/leetcodejava/tree/master/0389-find-the-difference) |
 | [1332-remove-palindromic-subsequences](https://github.com/pramodkv16/leetcodejava/tree/master/1332-remove-palindromic-subsequences) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/pramodkv16/leetcodejava/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/pramodkv16/leetcodejava/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3110-score-of-a-string](https://github.com/pramodkv16/leetcodejava/tree/master/3110-score-of-a-string) |
 ## Trie
