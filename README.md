@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pramodkv16/leetcodejava/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/pramodkv16/leetcodejava/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/pramodkv16/leetcodejava/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/pramodkv16/leetcodejava/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/pramodkv16/leetcodejava/tree/master/1480-running-sum-of-1d-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/pramodkv16/leetcodejava/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/pramodkv16/leetcodejava/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/pramodkv16/leetcodejava/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
