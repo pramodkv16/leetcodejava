@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/pramodkv16/leetcodejava/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/pramodkv16/leetcodejava/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/pramodkv16/leetcodejava/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/pramodkv16/leetcodejava/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/pramodkv16/leetcodejava/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/pramodkv16/leetcodejava/tree/master/1480-running-sum-of-1d-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/pramodkv16/leetcodejava/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pramodkv16/leetcodejava/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/pramodkv16/leetcodejava/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pramodkv16/leetcodejava/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/pramodkv16/leetcodejava/tree/master/0389-find-the-difference) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pramodkv16/leetcodejava/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pramodkv16/leetcodejava/tree/master/0169-majority-element) |
 | [3046-split-the-array](https://github.com/pramodkv16/leetcodejava/tree/master/3046-split-the-array) |
 ## Two Pointers
 |  |
@@ -87,10 +90,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pramodkv16/leetcodejava/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/pramodkv16/leetcodejava/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/pramodkv16/leetcodejava/tree/master/0389-find-the-difference) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/pramodkv16/leetcodejava/tree/master/1480-running-sum-of-1d-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pramodkv16/leetcodejava/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pramodkv16/leetcodejava/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
